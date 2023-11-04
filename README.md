@@ -1,4 +1,4 @@
-# E-Commerce Backend
+# E-Commerce
 
 ## video
 [![E-Commerce Backend Video](Assets/E-commerce-image.png)](https://drive.google.com/file/d/1Wn87D12TFdE0tb8L1odG_WU18dgZ6qXw/view?usp=drive_link)
